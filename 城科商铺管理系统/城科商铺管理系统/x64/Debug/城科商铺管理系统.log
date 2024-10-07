@@ -1,0 +1,9 @@
+﻿  Manager.cpp
+E:\code\城科商铺管理系统\城科商铺管理系统\Manager.cpp(63,156): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+E:\code\城科商铺管理系统\城科商铺管理系统\Manager.cpp(390,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\code\城科商铺管理系统\城科商铺管理系统\Manager.cpp(469,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  城科商铺管理系统.vcxproj -> E:\code\城科商铺管理系统\x64\Debug\城科商铺管理系统.exe
